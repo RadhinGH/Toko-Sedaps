@@ -1,0 +1,26 @@
+{
+  "name": "Sedapss Cloth",
+  "short_name": "Sedapss",
+  "description": "Toko pakaian rajut premium - koleksi sweater, cardigan, dan hoodie terbaru.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "media/logo.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "media/logo.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
